@@ -1,1 +1,1 @@
-istio/examples-bookinfo-reviews-v2:1.17.0
+FROM istio/examples-bookinfo-reviews-v2:1.17.0
